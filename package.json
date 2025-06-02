@@ -1,0 +1,14 @@
+{
+  "name": "assistant-instructions",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP server for assistant instructions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
